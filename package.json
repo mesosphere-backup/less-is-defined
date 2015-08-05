@@ -1,7 +1,7 @@
 {
-  "name": "less-color-lighten",
+  "name": "less-is-defined",
   "version": "0.0.1",
-  "description": "A LESS plugin for a simple function that blends a given color with white or black to produce a new color that observes the same general hue as the source color.",
+  "description": "A LESS plugin for a simple function that enables you to check if variable is defined.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,7 +13,7 @@
   "author": "Mesosphere Frontend Team",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/mesosphere/less-color-lighten/issues"
+    "url": "https://github.com/mesosphere/less-is-defined/issues"
   },
-  "homepage": "https://github.com/mesosphere/less-color-lighten"
+  "homepage": "https://github.com/mesosphere/less-is-defined"
 }

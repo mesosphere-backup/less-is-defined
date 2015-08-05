@@ -1,5 +1,5 @@
-# less-color-lighten
-A LESS plugin for a simple function that blends a given color with white or black to produce a new color that observes the same general hue as the source color.
+# less-is-defined
+A LESS plugin for a simple function that enables you to check if variable is defined.
 
 For usage see the [LESS documentation](http://lesscss.org/usage/#plugins).
 
