@@ -1,6 +1,6 @@
 {
   "name": "less-is-defined",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A LESS plugin for a simple function that enables you to check if variable is defined.",
   "main": "index.js",
   "scripts": {
